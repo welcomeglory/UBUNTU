@@ -1,4 +1,6 @@
-ubuntu 시작
+ubuntu 시작설치
+https://releases.ubuntu.com/22.04/
+
 linux 명령어
 알겠어요! 여기 몇 가지 더 명령어를 알려드릴게요:
 
