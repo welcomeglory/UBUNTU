@@ -1,13 +1,12 @@
-ubuntu 시작설치<br>
+- ubuntu 시작설치<br>
 https://releases.ubuntu.com/22.04/
 
-linux 명령어
-알겠어요! 여기 몇 가지 더 명령어를 알려드릴게요:
+- linux 명령어
 
-1. 현재 사용자 이름 보기: `whoami`
-2. 현재 작업 디렉토리 경로 보기: `pwd`
-3. 디렉토리 내용 보기 (간단히): `ls`
-4. 디렉토리 내용 보기 (자세히): `ls -l`
+1. `whoami` : 현재 사용자 이름 보기
+2. `pwd` : 현재 작업 디렉토리 경로 보기
+3. `ls` : 디렉토리 내용 보기 (간단히)
+4. `ls -l` : 디렉토리 내용 보기 (자세히)
 
 ![image](https://github.com/welcomeglory/UBUNTU/assets/153584777/f252aef6-f643-4ba7-8f2f-2a1720ce62fc)
 
