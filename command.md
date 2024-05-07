@@ -1,4 +1,4 @@
-ubuntu 시작설치
+ubuntu 시작설치<br>
 https://releases.ubuntu.com/22.04/
 
 linux 명령어
