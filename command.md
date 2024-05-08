@@ -10,5 +10,10 @@ https://releases.ubuntu.com/22.04/
 
 ![image](https://github.com/welcomeglory/UBUNTU/assets/153584777/f252aef6-f643-4ba7-8f2f-2a1720ce62fc)
 
+windows : GUI
+리눅스 : CLI
+
+
+
 
 
