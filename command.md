@@ -10,6 +10,31 @@ https://releases.ubuntu.com/22.04/
 
 ![image](https://github.com/welcomeglory/UBUNTU/assets/153584777/f252aef6-f643-4ba7-8f2f-2a1720ce62fc)
 
+- root 사용자 활성화하기
+1. 리눅스 관리자인 root를 활성화하고 비밀번호를 ‘password’로 설정하기
+![image](https://github.com/welcomeglory/UBUNTU/assets/153584777/cafc4c2c-af9f-4a3d-91c7-80d4b36ae72e)
+2. nano /etc/gdm3/custom.conf 명령으로 파일 열기
+![image](https://github.com/welcomeglory/UBUNTU/assets/153584777/e5c55f1c-a1f8-4da6-af4a-895339d3adb0)
+3. nano /etc/pam.d/gdm-password 명령으로 파일 열기
+![image](https://github.com/welcomeglory/UBUNTU/assets/153584777/5de85233-2b6e-45d8-a0ec-46b99655f287)
+4. nano /etc/pam.d/gdm-autologin 명령으로 파일 열기
+![image](https://github.com/welcomeglory/UBUNTU/assets/153584777/20f1bae0-193c-4858-8487-1c6167ed6553)
+5. nano /root/.profile 명령 실행하여 root 사용자의 프로파일 수정
+![image](https://github.com/welcomeglory/UBUNTU/assets/153584777/20df2c81-4244-49e4-afc5-666c776854c1)
+6. reboot 명령으로 Server 재부팅
+
+
+  
+
+
+
+
+
+
+
+
+
+
 windows : GUI
 리눅스 : CLI
 
@@ -19,4 +44,3 @@ windows : GUI
 4. `su - ubuntu` : 다른 사용자로 전환합니다. 여기서는 "ubuntu"라는 사용자로 전환합니다. `-` 옵션은 해당 사용자의 환경 설정을 로드합니다.
 5. `exit` : 현재 쉘 세션을 종료합니다. 현재 로그인한 사용자를 로그아웃합니다.
 6. `file` : 파일의 유형을 확인합니다. 주어진 파일의 유형이나 형식을 파악하여 출력합니다.
-
