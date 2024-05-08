@@ -13,7 +13,6 @@ https://releases.ubuntu.com/22.04/
 windows : GUI
 리눅스 : CLI
 
-
-
-
+1. `poweroff` :   
+2. 
 
