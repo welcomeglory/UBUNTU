@@ -22,19 +22,7 @@ https://releases.ubuntu.com/22.04/
 5. nano /root/.profile 명령 실행하여 root 사용자의 프로파일 수정
 ![image](https://github.com/welcomeglory/UBUNTU/assets/153584777/20df2c81-4244-49e4-afc5-666c776854c1)
 6. reboot 명령으로 Server 재부팅
-
-
-  
-
-
-
-
-
-
-
-
-
-
+   
 windows : GUI
 리눅스 : CLI
 
@@ -44,3 +32,15 @@ windows : GUI
 4. `su - ubuntu` : 다른 사용자로 전환합니다. 여기서는 "ubuntu"라는 사용자로 전환합니다. `-` 옵션은 해당 사용자의 환경 설정을 로드합니다.
 5. `exit` : 현재 쉘 세션을 종료합니다. 현재 로그인한 사용자를 로그아웃합니다.
 6. `file` : 파일의 유형을 확인합니다. 주어진 파일의 유형이나 형식을 파악하여 출력합니다.
+
+![image](https://github.com/welcomeglory/UBUNTU/assets/153584777/a980279f-b205-4285-a7b7-56baf94fd6b9)
+
+ls -a : 숨김파일까지 보여줌.
+![image](https://github.com/welcomeglory/UBUNTU/assets/153584777/e9424e21-4188-4746-9cb5-c39aacf23052)
+
+ls -l : 디렉토리까지만 보여줌.
+
+ll : 디렉토리안에 있는 파일까지 보여줌.
+
+
+
